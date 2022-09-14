@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://itacdonev.github.io',
                 'git_url': 'https://github.com/itacdonev/appliedml',
                 'lib_path': 'appliedml'},
-  'syms': {'appliedml.core': {'appliedml.core.foo': ('core.html#foo', 'appliedml/core.py')}}}
+  'syms': { 'appliedml.core': {'appliedml.core.foo': ('core.html#foo', 'appliedml/core.py')},
+            'appliedml.utils': {'appliedml.utils.foo': ('utils.html#foo', 'appliedml/utils.py')}}}
